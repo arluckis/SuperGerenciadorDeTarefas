@@ -19,7 +19,7 @@ git clone https://github.com/arluckis/SuperGerenciadorDeTarefas.git
 cd SuperGerenciadorDeTarefas
 ```
 
-#### 2. Digite no terminal do ambiente de desenvolvimento:
+#### 2. Abra um terminal na raíz do projeto em seu ambiente de desenvolvimento:
 ```
 - npm install
 - npm run dev
