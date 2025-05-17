@@ -17,11 +17,14 @@ Este projeto é uma aplicação em **React** para gerenciar tarefas, com navega�
 ```bash
 git clone https://github.com/arluckis/SuperGerenciadorDeTarefas.git
 cd SuperGerenciadorDeTarefas
+```
 
-### 2. Digite no terminal do ambiente de desenvolvimento:
+#### 2. Digite no terminal do ambiente de desenvolvimento:
+```
 - npm install
 - npm run dev
+```
 
-### 3.Clique com o command ou ctrl no link com http://localhost:{uma-porta-específica}/
+#### 3.Clique com o command ou ctrl no link com http://localhost:{uma-porta-específica}/
 
 Não foi implementado bônus.
