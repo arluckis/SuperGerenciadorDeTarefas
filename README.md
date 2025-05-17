@@ -25,6 +25,6 @@ cd SuperGerenciadorDeTarefas
 - npm run dev
 ```
 
-#### 3.Clique com o command ou ctrl no link com http://localhost:{uma-porta-específica}/
+#### 3.Clique com o command ou ctrl no link que aparecerá depois de rodar o comando "npm run dev" - http://localhost:{uma-porta-específica}/
 
 Não foi implementado bônus.
